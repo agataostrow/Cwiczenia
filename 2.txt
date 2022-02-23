@@ -1,0 +1,1 @@
+second filesprawdzam git commit --amend w 2.txt
